@@ -2,8 +2,7 @@
 #include <stdlib.h>
 
 int main(void) {
-  printf("%d",1000/100);
-  
-  return 0;
+  printf("%d", 2 % 2);
 
+  return 0;
 }
